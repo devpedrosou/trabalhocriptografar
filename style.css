@@ -6,7 +6,7 @@
 }
 body
 {
-    min-height: 100vh;
+    overflow-y: hidden;
     background: #0c192c;
 }
 
@@ -49,3 +49,12 @@ body
         
     }
 }
+.titulo {
+    font-size:  60px;
+}
+.espaco {
+    height: 200px;
+}
+.container{
+    font-size: 30px;
+     }
